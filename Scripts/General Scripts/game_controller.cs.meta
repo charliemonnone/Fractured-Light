@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea4afc0050fce3d45b27ba70ba6253b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {fileID: 20339834216507612, guid: 69cce84bdef69664da095a595fe68616, type: 2}
+  - enemy: {instanceID: 0}
+  - health: {instanceID: 0}
+  - player: {instanceID: 0}
+  - cursor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
